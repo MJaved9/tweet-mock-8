@@ -1,0 +1,41 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "abc@1",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB22kEUObl7cX7jJMHt8QnLUWaY6vQrChWxg&usqp=CAU",
+      "fullname": "abc",
+      "email": "gtatterton0@ehow.com",
+      "password": "123"
+    },
+    {
+      "username": "j1",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB22kEUObl7cX7jJMHt8QnLUWaY6vQrChWxg&usqp=CAU",
+      "name": "javed",
+      "email": "j@gmail.com",
+      "password": "j1",
+      "id": 2
+    },
+    {
+      "username": "abc@1",
+      "email": "gtatterton0@ehow.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "username": "javed",
+      "avatar": "https://www.w3schools.com/images/img_mylearning_160.png",
+      "name": "javed",
+      "email": "javed@gmail.com",
+      "password": "javed",
+      "id": 6
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "text": "abc",
+      "gif": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif"
+    }
+  ]
+}
